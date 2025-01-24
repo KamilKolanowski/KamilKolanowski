@@ -26,9 +26,9 @@ I'm a passionate **Data Engineer** with expertise in:
 </div>
 
 ---
-<div align="center">
-### 🏆 Highlights
 
+### 🏆 Highlights
+<div align="center">
 - 📊 **Lines of Code Written:**  
   ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-500k+-brightgreen)
 
@@ -39,11 +39,11 @@ I'm a passionate **Data Engineer** with expertise in:
   [![Languages Used](https://skillicons.dev/icons?i=python,azure,cs,dotnet,pycharm,rider)](https://skillicons.dev)
 </div>
 ---
-<div align="center">
+
 ### 📊 Dynamic Charts & Insights
 
 #### Most Used Languages
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKolanowski&layout=compact&theme=radical&langs_count=6)
 </div>
 #### Contributions Overview
