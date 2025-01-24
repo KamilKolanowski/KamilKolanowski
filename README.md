@@ -35,14 +35,14 @@ I'm a passionate **Data Engineer** with expertise in:
   ![Contributions](https://img.shields.io/badge/Open%20Source-Contributor-blue)
 
 - 🔥 **Technologies I've Worked With:**  
-  [![Languages Used](https://skillicons.dev/icons?i=python,sql,azure,cs,dotnet,pycharm,rider)](https://skillicons.dev)
+  [![Languages Used](https://skillicons.dev/icons?i=python,azure,cs,dotnet,pycharm,rider)](https://skillicons.dev)
 
 ---
 
 ### 📊 Dynamic Charts & Insights
 
 #### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKolanowski&layout=compact&theme=radical&langs_count=6)
 
 #### Contributions Overview
 <div align="center">
