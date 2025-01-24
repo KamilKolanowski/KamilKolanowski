@@ -43,9 +43,8 @@ I'm a passionate **Data Engineer** with expertise in:
 ### 📊 Dynamic Charts & Insights
 
 #### Most Used Languages
-<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKolanowski&layout=compact&theme=radical&langs_count=6)
-</div>
 #### Contributions Overview
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamilKolanowski&theme=radical" alt="GitHub Summary" />
