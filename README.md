@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Kamil Kolanowski!
+# 👋 Hi there, I'm Kamil!
 
 ### 🌟 About Me
 I'm a passionate **Data Engineer** with expertise in:
