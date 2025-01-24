@@ -1,4 +1,4 @@
-<div align="center">
+
 # 👋 Hi there, I'm Kamil Kolanowski!
 
 ### 🌟 About Me
@@ -6,9 +6,9 @@ I'm a passionate **Data Engineer** with expertise in:
 - 🚀 Building scalable data pipelines and ETL integrations.
 - 💻 Working with technologies like **Azure Data Factory, Databricks, PySpark, SQL, and C#**.
 - 🎷 Exploring creativity beyond code as a saxophone enthusiast!
-</div>
+
 ---
-<div align="center">
+
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,7 +16,7 @@ I'm a passionate **Data Engineer** with expertise in:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EB3C00?style=for-the-badge&logo=databricks&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-</div>
+
 ---
 
 ### 📈 GitHub Stats
