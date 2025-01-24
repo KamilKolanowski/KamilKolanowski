@@ -28,7 +28,7 @@ I'm a passionate **Data Engineer** with expertise in:
 ---
 
 ### 🏆 Highlights
-<div align="center">
+
 - 📊 **Lines of Code Written:**  
   ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-500k+-brightgreen)
 
@@ -37,7 +37,7 @@ I'm a passionate **Data Engineer** with expertise in:
 
 - 🔥 **Technologies I've Worked With:**  
   [![Languages Used](https://skillicons.dev/icons?i=python,azure,cs,dotnet,pycharm,rider)](https://skillicons.dev)
-</div>
+
 ---
 
 ### 📊 Dynamic Charts & Insights
