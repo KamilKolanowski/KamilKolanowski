@@ -22,7 +22,6 @@ I'm a passionate **Data Engineer** with expertise in:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KamilKolanowski&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KamilKolanowski&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -36,7 +35,7 @@ I'm a passionate **Data Engineer** with expertise in:
   ![Contributions](https://img.shields.io/badge/Open%20Source-Contributor-blue)
 
 - 🔥 **Technologies I've Worked With:**  
-  [![Languages Used](https://skillicons.dev/icons?i=python,sql,azure,csharp,pandas,pyspark)](https://skillicons.dev)
+  [![Languages Used](https://skillicons.dev/icons?i=python,sql,azure,cs,dotnet,pycharm,rider)](https://skillicons.dev)
 
 ---
 
