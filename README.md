@@ -46,17 +46,14 @@ I'm a passionate **Data Engineer** with expertise in:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKolanowski&layout=compact&theme=radical&langs_count=6)
 #### Contributions Overview
-<div align="center">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamilKolanowski&theme=radical" alt="GitHub Summary" />
-</div>
 
 ---
-<div align="center">
 ### 🎷 Fun Facts
 
 - 🎵 I'm learning to play the **alto saxophone**.  
 - 🎯 Outside of coding, I enjoy exploring **music theory and live performances**!
-</div>
 ---
 
 ### 🌐 Let's Connect!
