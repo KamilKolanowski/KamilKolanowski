@@ -54,10 +54,5 @@ I'm a passionate **Data Engineer** with expertise in:
 - 🎯 Outside of coding, I enjoy exploring **music theory and live performances**!
 ---
 
-### 🌐 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/κamil-κοlanοwski-507054171/)
-
----
 
 ⭐️ *Feel free to star some repositories or drop me a message if you're working on exciting projects!*
