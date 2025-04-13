@@ -1,32 +1,37 @@
 # ⚡ Kamil Kolanowski
 
-Senior Data Engineer | Azure • Databricks • C# • PySpark  
-Building data pipelines by day, learning sax by night 🎷
+Senior Data Engineer | Azure • Databricks • PySpark • SQL • C#  
+Crafting data solutions by day, learning saxophone by night 🎷
 
 ---
 
-### 🔧 Tech I Work With
+### 🛠️ Tech Stack
 
-`Azure` • `Databricks` • `PySpark` • `SQL` • `C#`  
-Minimalist by style, pragmatic by design.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-EB3C00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
 
 ---
 
-### 📊 GitHub Mood
+### 📊 GitHub Vibes
 
-<img src="https://github-readme-stats.vercel.app/api?username=KamilKolanowski&show_icons=true&hide=contribs&theme=tokyonight&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KamilKolanowski&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKolanowski&layout=compact&theme=tokyonight&langs_count=6" width="49%" />
 
 ---
 
-### 🎷 Outside the IDE
+### 🎷 Side Quest
 
-Alto saxophone student.  
-Balancing code precision with musical chaos.
+Currently learning alto saxophone.  
+Code during the day, jazz at night.
 
 ---
 
-### 📬 Ping Me
+### 💬 Let’s Connect
 
-Collab? Feedback? Sax jam?  
-Just [drop a message](https://github.com/KamilKolanowski) or star something cool.
+Working on something cool?  
+Star a repo or drop a DM.
