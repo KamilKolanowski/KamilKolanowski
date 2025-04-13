@@ -1,6 +1,6 @@
 # ⚡ Kamil Kolanowski
 
-Senior Data Engineer | Azure • Databricks • PySpark • SQL • C#  
+Senior Data Engineer | **Azure** • **Databricks** • **PySpark** • **SQL** • **C#**
 Crafting data solutions by day, learning saxophone by night 🎷 (or the other way around...)
 
 ---
