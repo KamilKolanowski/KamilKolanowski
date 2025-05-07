@@ -8,7 +8,7 @@ Crafting data solutions by day, learning saxophone by night 🎷 (or the other w
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
