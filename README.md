@@ -1,38 +1,101 @@
-# ⚡ Kamil Kolanowski
+# 👋 Hey there, I'm **Kamil Kolanowski**
 
-Senior Data Engineer | **Azure** • **Databricks** • **PySpark** • **SQL** • **C#**
-
-Crafting data solutions by day, learning saxophone by night 🎷 (or the other way around...)
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-EB3C00?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
+<div align="center">
+  
+  ### 🚀 Senior Data Engineer | Cloud Architect | Jazz Enthusiast
+  
+  *Building scalable data pipelines by day • Playing smooth jazz by night* 🎷
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+  
+</div>
 
 ---
 
-### 📊 GitHub Vibes
+## 🛠️ **Tech Arsenal**
 
-<img src="https://github-readme-stats.vercel.app/api?username=KamilKolanowski&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKolanowski&layout=compact&theme=tokyonight&langs_count=6" width="49%" />
+<div align="center">
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Big Data & Analytics**
+![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### **Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-### 🎷 Side Quest
+## 📈 **GitHub Analytics**
 
-Currently learning alto saxophone.  
-Code during the day, jazz at night.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamilKolanowski&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKolanowski&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamilKolanowski&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
+</div>
 
 ---
 
-### 💬 Let’s Connect
+## 🎯 **What I'm Up To**
 
-Working on something cool?  
-Star a repo or drop a DM.
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Kamil Kolanowski"
+        self.role = "Senior Data Engineer"
+        self.daily_tasks = ["Building ETL pipelines", "Architecting data solutions", "Optimizing Spark jobs"]
+        self.evening_hobby = "Learning alto saxophone 🎷"
+        self.current_focus = ["Real-time data streaming", "MLOps", "Jazz improvisation"]
+    
+    def get_motto(self):
+        return "Data flows like music - both need rhythm, structure, and a touch of creativity"
+```
+
+---
+
+## 🎷 **Beyond the Code**
+
+<div align="center">
+  
+  **🎵 Currently Mastering:** Alto Saxophone  
+  **🎼 Favorite Genre:** Jazz & Blues  
+  **🎯 Goal:** Combine the logic of code with the soul of music  
+  
+  > *"Code is poetry, data tells stories, and jazz makes it all swing"*
+  
+</div>
+
+---
+
+## 🤝 **Let's Build Something Amazing Together**
+
+<div align="center">
+  
+  💡 **Open to collaborating on:**
+  - Data engineering projects
+  - Open source contributions  
+  - Jazz jam sessions (Warsaw area 🇵🇱)
+  
+  📫 **Reach out if you're working on something cool!**  
+  ⭐ **Don't forget to star repositories you find useful**
+  
+  ---
+  
+  *"In data we trust, in music we find joy"* 🎵📊
+  
+</div>
