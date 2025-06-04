@@ -6,10 +6,6 @@
   
   *Building scalable data pipelines by day • Playing smooth jazz by night* 🎷
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-  
 </div>
 
 ---
@@ -60,7 +56,7 @@ class DataEngineer:
         self.role = "Senior Data Engineer"
         self.daily_tasks = ["Building ETL pipelines", "Architecting data solutions", "Optimizing Spark jobs"]
         self.evening_hobby = "Learning alto saxophone 🎷"
-        self.current_focus = ["Real-time data streaming", "MLOps", "Jazz improvisation"]
+        self.current_focus = ["C# Web Development", "Blazor/React", "Jazz improvisation"]
     
     def get_motto(self):
         return "Data flows like music - both need rhythm, structure, and a touch of creativity"
