@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### 🚀 Senior Data Engineer | Cloud Architect | Jazz Enthusiast
+  ### 🚀 Senior Data Engineer | C# .NET Aspiring Dev | Jazz Enthusiast
   
   *Building scalable data pipelines by day • Playing smooth jazz by night* 🎷
   
@@ -89,7 +89,6 @@ class DataEngineer:
   💡 **Open to collaborating on:**
   - Data engineering projects
   - Open source contributions  
-  - Jazz jam sessions (Warsaw area 🇵🇱)
   
   📫 **Reach out if you're working on something cool!**  
   ⭐ **Don't forget to star repositories you find useful**
