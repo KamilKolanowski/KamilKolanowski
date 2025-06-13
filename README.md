@@ -64,32 +64,6 @@ class DataEngineer:
 
 ---
 
-## 🎷 **Beyond the Code**
-
-<div align="center">
-  
-  **🎵 Currently Mastering:** Alto Saxophone  
-  **🎼 Favorite Genre:** Jazz & Blues  
-  **🎯 Goal:** Combine the logic of code with the soul of music  
-  
-  > *"Code is poetry, data tells stories, and jazz makes it all swing"*
-  
-</div>
-
----
-
-## 🤝 **Let's Build Something Amazing Together**
-
-<div align="center">
-  
-  💡 **Open to collaborating on:**
-  - Data engineering projects
-  - Open source contributions  
-  
-  📫 **Reach out if you're working on something cool!**  
-  ⭐ **Don't forget to star repositories you find useful**
-  
-  ---
   
   *"In data we trust, in music we find joy"* 🎵📊
   
