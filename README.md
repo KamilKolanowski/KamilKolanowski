@@ -64,6 +64,6 @@ class DataEngineer:
 ---
 
   
-  *"In data we trust, in music we find joy"* 🎵📊
+ <div align="center">*"In data we trust, in music we find joy"* 🎵📊</div>
   
 </div>
