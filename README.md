@@ -37,6 +37,10 @@
 ## 📈 **GitHub Analytics**
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKolanowski&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamilKolanowski&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
 </div>
 
