@@ -55,27 +55,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamilKolanowski&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
 </div>
-
----
-
-## 🎯 **What I'm Up To**
-
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Kamil Kolanowski"
-        self.role = "Senior Data Engineer"
-        self.daily_tasks = ["Building ETL pipelines", "Architecting data solutions", "Optimizing Spark jobs"]
-        self.evening_hobby = "Learning alto saxophone 🎷"
-        self.current_focus = ["C# Web Development", "Blazor/React", "Jazz improvisation"]
-    
-    def get_motto(self):
-        return "Data flows like music - both need rhythm, structure, and a touch of creativity"
-```
-
----
-
-  
- <div align="center">"In data we trust, in music we find joy" 🎵📊</div>
-  
-</div>
