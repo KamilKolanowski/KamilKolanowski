@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=py,cs,dotnet,js,ts,react" />
   </a>
 </p>
 
@@ -28,6 +28,7 @@
     <img src="https://skillicons.dev/icons?i=azure,docker" />
   </a>
 </p>
+
 
 ### **IDEs & Text Editors**
 <p align="center">
