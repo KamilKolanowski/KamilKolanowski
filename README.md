@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### 🚀 Senior Data Engineer 
+  ### Senior Data Engineer 
   
   *Building scalable data pipelines by day • Playing smooth jazz by night* 🎷
   
