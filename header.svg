@@ -1,0 +1,177 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:1">
+        <animate attributeName="stop-color" values="#58A6FF;#1F6FEB;#FF6B6B;#58A6FF" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" style="stop-color:#1F6FEB;stop-opacity:1">
+        <animate attributeName="stop-color" values="#1F6FEB;#FF6B6B;#58A6FF;#1F6FEB" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" style="stop-color:#FF6B6B;stop-opacity:1">
+        <animate attributeName="stop-color" values="#FF6B6B;#58A6FF;#1F6FEB;#FF6B6B" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1f2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translate(0, 0); }
+        50% { transform: translate(10px, -10px); }
+      }
+      
+      @keyframes wave {
+        0%, 100% { transform: rotate(0deg); }
+        10% { transform: rotate(14deg); }
+        20% { transform: rotate(-8deg); }
+        30% { transform: rotate(14deg); }
+        40% { transform: rotate(-4deg); }
+        50% { transform: rotate(10deg); }
+        60% { transform: rotate(0deg); }
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 1; }
+      }
+
+      .wave-hand {
+        animation: wave 2.5s ease-in-out infinite;
+        transform-origin: 70% 70%;
+      }
+
+      .particle {
+        animation: float 8s ease-in-out infinite;
+      }
+
+      .blink {
+        animation: pulse 1s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGradient)"/>
+
+  <!-- Animated grid pattern -->
+  <g opacity="0.1">
+    <path d="M0,0 L1200,0 L1200,400 L0,400 Z" fill="none" stroke="#58A6FF" stroke-width="1" 
+          stroke-dasharray="40,40" opacity="0.3">
+      <animateTransform attributeName="transform" type="translate" 
+                        from="0 0" to="40 40" dur="20s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Floating particles -->
+  <circle cx="120" cy="80" r="3" fill="#58A6FF" opacity="0.6" filter="url(#glow)" class="particle">
+    <animate attributeName="cy" values="80;50;80" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="120;150;120" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1020" cy="240" r="3" fill="#58A6FF" opacity="0.6" filter="url(#glow)" class="particle">
+    <animate attributeName="cy" values="240;210;240" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="1020;1050;1020" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="240" cy="320" r="3" fill="#58A6FF" opacity="0.6" filter="url(#glow)" class="particle">
+    <animate attributeName="cy" values="320;290;320" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="240;270;240" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="120" r="3" fill="#58A6FF" opacity="0.6" filter="url(#glow)" class="particle">
+    <animate attributeName="cy" values="120;90;120" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="900;930;900" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Decorative wave lines -->
+  <path d="M-100,350 Q150,340 400,350 T900,350 T1300,350" fill="none" stroke="#58A6FF" 
+        stroke-width="2" opacity="0.2">
+    <animate attributeName="d" 
+             values="M-100,350 Q150,340 400,350 T900,350 T1300,350;
+                     M-100,350 Q150,360 400,350 T900,350 T1300,350;
+                     M-100,350 Q150,340 400,350 T900,350 T1300,350" 
+             dur="15s" repeatCount="indefinite"/>
+  </path>
+  <path d="M-100,370 Q150,360 400,370 T900,370 T1300,370" fill="none" stroke="#1F6FEB" 
+        stroke-width="2" opacity="0.15">
+    <animate attributeName="d" 
+             values="M-100,370 Q150,360 400,370 T900,370 T1300,370;
+                     M-100,370 Q150,380 400,370 T900,370 T1300,370;
+                     M-100,370 Q150,360 400,370 T900,370 T1300,370" 
+             dur="20s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Top accent line -->
+  <rect x="400" y="100" width="400" height="2" fill="url(#titleGradient)" opacity="0.5">
+    <animate attributeName="width" values="0;400;0" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="600;400;600" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom accent line -->
+  <rect x="400" y="298" width="400" height="2" fill="url(#titleGradient)" opacity="0.5">
+    <animate attributeName="width" values="0;400;0" dur="2s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="600;400;600" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Emoji wave -->
+  <g transform="translate(600, 130)" class="wave-hand">
+    <text x="-25" y="0" font-size="60" text-anchor="middle">👋</text>
+  </g>
+
+  <!-- Left bracket -->
+  <text x="180" y="220" font-family="'Courier New', monospace" font-size="80" 
+        font-weight="bold" fill="#58A6FF" filter="url(#glow)">
+    {
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Main title -->
+  <text x="600" y="220" font-family="'Bebas Neue', 'Impact', sans-serif" font-size="72" 
+        font-weight="bold" fill="url(#titleGradient)" text-anchor="middle" 
+        letter-spacing="4" filter="url(#glow)">
+    KAMIL KOLANOWSKI
+  </text>
+
+  <!-- Right bracket -->
+  <text x="1020" y="220" font-family="'Courier New', monospace" font-size="80" 
+        font-weight="bold" fill="#58A6FF" filter="url(#glow)">
+    }
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Cursor -->
+  <rect x="1080" y="165" width="4" height="60" fill="#58A6FF" filter="url(#glow)" class="blink"/>
+
+  <!-- Subtitle -->
+  <text x="600" y="260" font-family="'Courier New', monospace" font-size="20" 
+        fill="#8b949e" text-anchor="middle" letter-spacing="2">
+  Senior Data Egnineer
+  </text>
+
+  <!-- Decorative code elements -->
+  <text x="100" y="50" font-family="'Courier New', monospace" font-size="14" 
+        fill="#58A6FF" opacity="0.3">
+    &lt;/&gt;
+  </text>
+  <text x="1050" y="50" font-family="'Courier New', monospace" font-size="14" 
+        fill="#58A6FF" opacity="0.3">
+    const code = () =&gt; {
+  </text>
+  <text x="100" y="380" font-family="'Courier New', monospace" font-size="14" 
+        fill="#58A6FF" opacity="0.3">
+    function jazz() {
+  </text>
+  <text x="1000" y="380" font-family="'Courier New', monospace" font-size="14" 
+        fill="#58A6FF" opacity="0.3">
+    };
+  </text>
+</svg>
