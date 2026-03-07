@@ -36,16 +36,6 @@
 
 <div align="center">
 
-## 🎵 Currently Jamming To
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11134985802&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
----
-
-<div align="center">
-
 ### 💬 Let's Connect
 
 *Always open to interesting conversations about data engineering, jazz, or that perfect intersection of art and code*
